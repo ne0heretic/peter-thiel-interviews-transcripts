@@ -1,5 +1,7 @@
 # Peter Thiel Interviews Transcripts
 
+![Peter Thiel](https://upload.wikimedia.org/wikipedia/commons/9/9f/Peter_Thiel_by_Dan_Taylor.jpg)
+
 A curated, open-source collection of full transcripts from Peter Thiel's interviews, podcasts, talks, and discussions. This repository aims to preserve and make accessible his thought-provoking ideas on innovation, venture capital, competition, and the future of technology.
 
 Peter Thiel, co-founder of PayPal and Palantir, and author of *Zero to One*, has shared profound perspectives across platforms like *The Joe Rogan Experience*, *Conversations with Tyler*, and various tech conferences. This repo centralizes high-quality transcripts for easy reference, study, and analysis.
