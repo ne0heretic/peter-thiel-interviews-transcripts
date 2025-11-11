@@ -11,8 +11,10 @@ Peter Thiel, co-founder of PayPal and Palantir, and author of *Zero to One*, has
 peter-thiel-interviews-transcripts/
 ├── transcripts/                  # Main folder for all transcripts
 │   ├── 2023/                     # Organized by year (YYYY)
-│   │   ├── platform_channel1-YYYY-MM-DD.md     # Individual transcript files (Markdown format)
-│   │   └── platform_channel2-YYYY-MM-DD.md
+│   │   ├── YYYY-MM-DD-platform-channel1-short_title.md     # Individual transcript files (Markdown format)
+│   │   ├── YYYY-MM-DD-platform-channel1-short_title.Summary.md     # Summary of a transcript file (Markdown format)
+│   │   ├── YYYY-MM-DD-platform-channel2-short_title2.md
+│   │   └── YYYY-MM-DD-platform-channel2-short_title2.Summary.md    # Summary of a transcript file (Markdown format)
 │   ├── 2022/
 │   │   └── ...
 │   └── unorganized/              # For transcripts without clear dates
