@@ -46,9 +46,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/ne0heretic/peter-thiel-interviews-transcripts/issues)
+- Issues: [GitHub Issues](https://github.com/haeretici/peter-thiel-interviews-transcripts/issues)
 - Docs: Inline code comments.
-- Twitter: [Thiago Campos Viana (@ne0heretic)](https://twitter.com/ne0heretic) for updates.
+- Twitter: [Thiago Campos Viana (@haeretici)](https://twitter.com/haeretici) for updates.
 
 
 If you find this useful, star the repo or share it! Questions? Open an issue.
