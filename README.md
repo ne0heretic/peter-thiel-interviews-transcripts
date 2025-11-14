@@ -25,7 +25,7 @@ peter-thiel-interviews-transcripts/
 ## 🚀 Getting Started
 1. **Clone the repo**:
    ```
-   git clone https://github.com/ne0heretic/peter-thiel-interviews-transcripts.git
+   git clone https://github.com/haeretici/peter-thiel-interviews-transcripts.git
    cd peter-thiel-interviews-transcripts
    ```
 2. **Browse transcripts**: Navigate to `/transcripts/` and search by year or filename.
